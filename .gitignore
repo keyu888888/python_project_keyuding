@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+/.venv/
+/assets/
+/weights/
+/output_tokens.npz
